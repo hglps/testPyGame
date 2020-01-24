@@ -1,4 +1,5 @@
-#Space invader bases on YouTube video
+#Space invader based on YouTube video
+#Up to 59:00
 import pygame
 import random as rd
 from pygame.locals import *
